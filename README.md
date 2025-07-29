@@ -7,3 +7,5 @@ My iOS journey got me interested in using Swift on the server and my profile has
 These days I'm mostly of the opinion that software should be written in typescript unless you have a good reason to use something else.
 
 You can find my [CV here](https://docs.google.com/document/d/1VRXGS40Tf3RR7qihFi37j0PVrFGmu0vWbVcMfPatOvs/edit?usp=sharing).
+
+You can also check out my indie project for sending emails [IndiePitcher](https://indiepitcher.com)
